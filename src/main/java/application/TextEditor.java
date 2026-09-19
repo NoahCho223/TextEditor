@@ -1,10 +1,12 @@
-package main;
+package application;
 
 import java.awt.CardLayout;
 import java.awt.Component;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+
+import gui.MainFrame;
 
 //main Application for the text editor app
 public class TextEditor {

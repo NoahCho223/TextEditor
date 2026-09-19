@@ -1,6 +1,8 @@
-package main;
+package application;
 
 import javax.swing.JPanel;
+
+import gui.MainMenuPanel;
 
 public class MainMenuState implements TextEditorState{
 	

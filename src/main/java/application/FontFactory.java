@@ -1,4 +1,4 @@
-package main;
+package application;
 
 import java.awt.Font;
 import java.util.ArrayList;

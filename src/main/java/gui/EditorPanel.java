@@ -1,4 +1,4 @@
-package main;
+package gui;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -20,6 +20,9 @@ import javax.swing.JTextArea;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
+
+import application.FontFactory;
+import application.TextEditor;
 
 //main editor panel
 public class EditorPanel extends JPanel{

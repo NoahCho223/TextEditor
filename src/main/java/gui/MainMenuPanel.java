@@ -1,4 +1,4 @@
-package main;
+package gui;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -12,6 +12,9 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JSeparator;
 import javax.swing.JTextArea;
+
+import application.FontFactory;
+import application.TextEditor;
 
 public class MainMenuPanel extends JPanel{
 	

@@ -1,4 +1,4 @@
-package main;
+package application;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -18,6 +18,8 @@ import javax.swing.JTextArea;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.filechooser.FileNameExtensionFilter;
+
+import gui.EditorPanel;
 
 //handles the logic of the editor
 public class EditorState implements TextEditorState{
